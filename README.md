@@ -1,3 +1,5 @@
 # 简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书记录我做生物信息学工作过程中遇到的一些问题的解决方法，以及生物信息学的一些教程、网站的收录。
+
+欢迎pull request以及提交issue。
